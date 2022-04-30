@@ -1,2 +1,2 @@
 # Event-Manager
-A minimal but function event manager
+A minimal but functional event manager built in Flutter.
