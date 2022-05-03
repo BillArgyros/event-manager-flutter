@@ -21,4 +21,4 @@ The link below contains the apk of a beta version of the application. Currently 
 
 ## Built with
 
-* [Flutter 2.0](https://flutter.dev/?gclid=CjwKCAiA6Y2QBhAtEiwAGHybPcVyifrnxlpAIyg2l9Oaow79u_W2-IJoxEPYWu8zdTVh0qYXMAEtvxoC2LUQAvD_BwE&gclsrc=aw.ds)
+* [Flutter 2.10](https://flutter.dev/?gclid=CjwKCAiA6Y2QBhAtEiwAGHybPcVyifrnxlpAIyg2l9Oaow79u_W2-IJoxEPYWu8zdTVh0qYXMAEtvxoC2LUQAvD_BwE&gclsrc=aw.ds)
